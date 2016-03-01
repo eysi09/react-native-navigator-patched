@@ -1,0 +1,23 @@
+{
+  "name": "react-native-navigator-patched",
+  "version": "0.0.1",
+  "description": "A patched version of the React Native Navigator component, v.0.20",
+  "main": "NavigatorPatched.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eysi09/react-native-navigator-patched.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "navigator",
+    "ios",
+    "android"
+  ],
+  "author": "Eythor Magnusson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eysi09/react-native-navigator-patched/issues"
+  },
+  "homepage": "https://github.com/eysi09/react-native-navigator-patched#readme"
+}
